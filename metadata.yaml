@@ -1,0 +1,35 @@
+_repo: A-Treatise-of-Taxes-and-Contributions-Shewing-the-nature-and-measures-of-crown-lands-assessem__61588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Petty, William, Sir
+    birthdate: 1623
+    deathdate: 1687
+    gutenberg_agent_id: '1815'
+    url: http://www.gutenberg.org/2009/agents/1815
+    wikipedia: https://en.wikipedia.org/wiki/William_Petty
+description: ''
+gutenberg_issued: '2020-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61588'
+  lccn: 08028821
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finance -- Great Britain -- Early works to 1800'
+- !lcsh 'Great Britain -- Politics and government -- 1660-1688'
+- !lcsh 'Taxation -- Great Britain -- Early works to 1800'
+- !lcc 'HJ'
+- GITenberg
+title: "A Treatise of Taxes and Contributions\r\nShewing the nature and measures of\
+  \ crown-lands, assessements, customs, poll-moneys, lotteries, benevolence, penalties,\
+  \ monopolies, offices, tythes, raising of coins, harth-money, excize, &c.; with\
+  \ several intersperst discourses and digressions concerning warres, the church,\
+  \ universities, rents & purchases, usury & exchange, banks & lombards, registries\
+  \ for conveyances, beggars, ensurance, exportation of money [&] wool, free-ports,\
+  \ coins, housing, liberty of conscience, &c.; the same being frequently applied\
+  \ to the present state and affairs of Ireland."
+url: http://www.gutenberg.org/ebooks/61588
